@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".", // Setzt das Basisverzeichnis auf das Projekt-Root
+      "paths": {
+        "@/*": ["./src/*"] // Definiert den Alias @ für das src-Verzeichnis
+      }
+    }
+  }
+  

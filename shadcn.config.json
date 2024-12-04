@@ -1,0 +1,8 @@
+{
+    "framework": "react",
+    "style": "tailwind",
+    "tailwindConfig": "./tailwind.config.js",
+    "components": "./src/components/ui",
+    "utils": "./src/lib/utils"
+  }
+  
